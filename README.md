@@ -1,2 +1,0 @@
-# IntegrationArtifactResource
-integrationArtifactResource command demo

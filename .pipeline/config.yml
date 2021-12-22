@@ -1,0 +1,4 @@
+steps:
+  integrationArtifactDeploy:
+    cpiApiServiceKeyCredentialsId: roverpocServiceKeyCred
+    integrationFlowId: flow1
