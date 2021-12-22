@@ -1,4 +1,6 @@
 steps:
-  integrationArtifactDeploy:
+  integrationArtifactResource:
     cpiApiServiceKeyCredentialsId: roverpocServiceKeyCred
     integrationFlowId: flow1
+    operation: update
+    resourcePath: resource/data.xml
